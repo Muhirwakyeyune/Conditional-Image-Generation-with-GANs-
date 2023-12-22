@@ -82,8 +82,8 @@ In conclusion, this project demonstrates the implementation and training of a cG
 
 ## Contributors
 
-- [Your Name]
-- [Other contributors, if any]
+- [MUHIRWA SALOMON]
+-
 
 ## License
 

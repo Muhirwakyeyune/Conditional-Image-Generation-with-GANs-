@@ -87,5 +87,5 @@ In conclusion, this project demonstrates the implementation and training of a cG
 
 ## License
 
-This project is licensed under the African Masters in Machine Intelligence.
+This project is licensed under the [African Masters in Machine Intelligence](https://aimsammi.org/).
 

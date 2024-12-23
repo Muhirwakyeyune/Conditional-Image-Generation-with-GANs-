@@ -22,7 +22,7 @@ This repository contains the implementation of a Conditional Generative Adversar
 
 ## Introduction
 
-Biomedical imaging is crucial for medical research and diagnosis, but limited annotated datasets pose challenges for machine learning models. This project leverages cGANs to generate synthetic biomedical images for data augmentation. Two datasets, MNIST and CelebA, are used to showcase the model's versatility.
+Biomedical imaging is crucial for medical research and diagnosis, but limited annotated datasets pose challenges for machine learning models. This project leverages cGANs to generate synthetic biomedical images for data augmentation. medical scans data are used to showcase the model's versatility.
 
 ## Environment Setup
 
